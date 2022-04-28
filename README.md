@@ -1,7 +1,7 @@
 # Technical-Documentation-page2
 <br>
 <br>
-visit my page:  https://ashish3281.github.io/Technical-Documentation-Page/
+visit my page:  https://ashish3281.github.io/Technical-Documentation-page2/
 <br>
 Technical documentation is any document that explains the features of the respective product. In this project, I was created a technical documentation of Java Script using HTML and CSS. The webpage has a menu sections that helps to navigate to different sections of the webpage.
 <br>
