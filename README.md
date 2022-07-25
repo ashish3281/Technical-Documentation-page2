@@ -7,4 +7,5 @@ Technical documentation is any document that explains the features of the respec
 <br>
  We are going to divide the whole webpage into two sections. The left side has a menu called Documentation Menu with all the topics listed inside a navigation bar. It contains anchor tags which has links to IDs of all the sections(like inheritance, polymorphism etc.). In the right side, we have description for each of the topics. The idea behind this is once user clicks on one of the topics in the left section, respective topic details will load the content on the right. In the CSS file we are just beautifying the texts like its alignment, padding margin etc.
 <br>
-![Screenshot (313)](https://user-images.githubusercontent.com/92047366/180713279-311edc3d-f51b-42bd-baa4-a7dcfe952f96.png)
+
+![Screenshot (312)](https://user-images.githubusercontent.com/92047366/180713557-bacbd060-2828-42e4-9309-6875fcc68d4a.png)
